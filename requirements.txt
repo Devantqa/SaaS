@@ -1,0 +1,9 @@
+selenium>=4.23.0
+webdriver-manager>=4.0.2
+pytest>=7.4.4
+python-dotenv>=1.0.1
+python-docx>=1.1.2
+Pillow>=10.2.0
+requests>=2.32.3          # for link status checks
+pyspellchecker>=0.8.1     # simple English spell checking
+reportlab>=4.2.2          # PDF report generation

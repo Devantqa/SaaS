@@ -1,0 +1,18 @@
+PAGE: Login
+URL:   https://school.devanttest.in/login
+TOTAL WORDS (unique): 9
+MISSPELLED COUNT: 0
+
+== MISSPELLED WITH SUGGESTIONS ==
+(none)
+
+== ALL WORDS SCANNED (UNIQUE) ==
+continue
+Forgot
+get
+Hello
+let
+password
+SIGN
+Sign
+started

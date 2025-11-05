@@ -1,0 +1,51 @@
+PAGE: Subject
+URL:   https://school.devanttest.in/subject
+TOTAL WORDS (unique): 42
+MISSPELLED COUNT: 1
+
+== MISSPELLED WITH SUGGESTIONS ==
+- SCE -> suggestion: sec
+
+== ALL WORDS SCANNED (UNIQUE) ==
+Academics
+Access
+Actions
+All
+Assure
+Bengali
+Cancel
+Central
+Checkingv
+Class
+Code
+Copyright
+Dashboard
+default
+Design
+Devant
+Develop
+Fees
+History
+Hostel
+Inventory
+KIWI
+Library
+List
+Management
+Math
+Model
+Name
+Portal
+Principle
+reserved
+rights
+Save
+SCE
+School
+Science
+Select
+session
+Staff
+Student
+Subject
+Update

@@ -1,0 +1,56 @@
+PAGE: Session
+URL:   https://school.devanttest.in/session
+TOTAL WORDS (unique): 47
+MISSPELLED COUNT: 0
+
+== MISSPELLED WITH SUGGESTIONS ==
+(none)
+
+== ALL WORDS SCANNED (UNIQUE) ==
+Academics
+Access
+Actions
+All
+April
+Assure
+Ben
+Bengali
+Cancel
+Central
+Checkingv
+Class
+Code
+Copyright
+Dashboard
+Date
+default
+Design
+Devant
+Develop
+End
+Fees
+History
+Hostel
+Inventory
+KIWI
+Library
+List
+Management
+March
+Model
+Name
+Portal
+Principle
+reserved
+rights
+Save
+School
+Select
+Session
+session
+Staff
+Start
+Student
+Today
+Update
+Yesterday

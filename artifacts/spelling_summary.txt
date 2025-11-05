@@ -1,0 +1,5 @@
+SPELLING SUMMARY
+
+Login: no spelling issues (see spelling_login.txt)
+Session: no spelling issues (see spelling_session.txt)
+Subject: 1 misspelled (see spelling_subject.txt)
